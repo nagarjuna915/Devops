@@ -1,3 +1,5 @@
 
 linux server url
 http://ec2-18-212-9-207.compute-1.amazonaws.com/
+s3 bucket static website url
+http://devops917.s3-website-us-east-1.amazonaws.com/
